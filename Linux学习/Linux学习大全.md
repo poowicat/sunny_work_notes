@@ -89,7 +89,7 @@
 
 ##### 各种模式的相互切换
 
-![img](D:\Workspace\sunny_work_notes\images\watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwNjg0NjQ5,size_16,color_FFFFFF,t_70)
+![img](.images/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwNjg0NjQ5,size_16,color_FFFFFF,t_70)
 
 
 
@@ -181,15 +181,15 @@ id 用户名
 
 #### Shell 和 Linux指令传输图
 
-![img](D:\Workspace\sunny_work_notes\images\watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubize_16,color_FFFFFF,t_70)
+![img](.images/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubize_16,color_FFFFFF,t_70)
 
-![image-20221206110847286](D:\Workspace\sunny_work_notes\images\image-20221206110847286.png)
+![image-20221206110847286](.images/image-20221206110847286.png)
 
-![img](D:\Workspace\sunny_work_notes\images\20210527201233458.png)
+![img](.images/20210527201233458.png)
 
 ![img](D:\Workspace\sunny_work_notes\images\20210527201417245.png)
 
-![img](https://img-blog.csdnimg.cn/20210527201458354.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwNjg0NjQ5,size_16,color_FFFFFF,t_70)
+![img](.images/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwNjg0NjQ5,size_16,color_FFFFFF,t_70-16770311528781.png)
 
 
 
@@ -222,7 +222,7 @@ systemctl get-default 查看当前是命令窗口还是图形化
 
 systemctl set-default TARGET.target  设置/切换
 
-![img](D:\Workspace\sunny_work_notes\images\watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwNjg0NjQ5,size_16,color_FFFFFF,t_70)
+![img](.images/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwNjg0NjQ5,size_16,color_FFFFFF,t_70-16770311555693)
 
 注意： 工作中用3，学习用5
 
